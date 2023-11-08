@@ -4,3 +4,5 @@ AS209854 # Surfshark
 AS136787 # NordVPN (TEFINCOM S.A.)
 AS32751 # Octovpn / xbox VPN
 AS34343 # PrivadoVPN
+AS50525 # PrivadoVPN
+AS12989 # PrivadoVPN
