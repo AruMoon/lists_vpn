@@ -792,3 +792,4 @@ AS9009 # M247 Europe SRL
 AS212238 # DataCamp Limited
 AS13335 # Cloudflare, Inc.
 AS43128 # Webtasy hosting platform
+AS34343 # Privado Networks AG
