@@ -55,7 +55,7 @@ jobs:
     - name: Push Output of protonvpn.txt
       uses: X4BNet/copy_file_to_another_repo_action@main
       env:
-        API_TOKEN_GITHUB: '${{ githuh.repository }}'
+        API_TOKEN_GITHUB: '${{ github.repository }}'
       with:
         source_file: 'protonvpn.txt'
         destination_repo: '${{ github.repository }}'
