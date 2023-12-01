@@ -52,4 +52,14 @@ jobs:
         user_email: 'automated@lolicon.monster'
         user_name: 'listbuilder-arumoon'
         destination_branch: "main"
-
+    - name: Push Output of protonvpn.txt
+      uses: X4BNet/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: '${{ githuh.repository }}'
+      with:
+        source_file: 'protonvpn.txt'
+        destination_repo: '${{ github.repository }}'
+        destination_folder: '/input/datacenter/ips/'
+        user_email: 'automated@lolicon.monster'
+        user_name: 'listbuilder-arumoon'
+        destination_branch: "main"s
