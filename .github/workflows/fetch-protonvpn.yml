@@ -62,4 +62,4 @@ jobs:
         destination_folder: '/input/datacenter/ips/'
         user_email: 'automated@lolicon.monster'
         user_name: 'listbuilder-arumoon'
-        destination_branch: "main"s
+        destination_branch: "main"
