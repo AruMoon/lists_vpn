@@ -2,10 +2,9 @@ name: Build Database Update
 on:
   push:
     paths:
-    - 'input/**'
     - '.github/workflows/build-list.yml'
   schedule:
-    - cron:  '45 16 * * *'
+    - cron:  '0 18 * * *'
   workflow_dispatch:
 
 jobs:

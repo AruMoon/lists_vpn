@@ -4,7 +4,7 @@ on:
     paths:
     - '.github/workflows/fetch-protonvpn.yml'
   schedule:
-    - cron:  '30 16 * * *'
+    - cron:  '45 17 * * *'
   workflow_dispatch:
 
 jobs:
