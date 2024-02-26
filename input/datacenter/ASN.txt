@@ -794,7 +794,6 @@ AS13335 # Cloudflare, Inc.
 AS43128 # Webtasy hosting platform
 AS34343 # Privado Networks AG
 AS50525 # Privado Networks AG
-AS12989 # Privado Networks AG
 AS31898 # ORACLE-BMC-31898
 AS1215 # ORACLE-NA-AS
 AS1216 # ORACLE-EUROPE-AS
@@ -805,7 +804,9 @@ AS792 # ORACLE-ASNBLOCK-ASN
 AS23885 # ORACLEV6-AS-AP Oracle Corporation
 AS206804 # EstNOC-Nairobi
 AS44477 # STARK INDUSTRIES SOLUTIONS
-AS212238 # CDNEXT WAR
-AS40676 # Psychz Networks
 AS24429 # Zhejiang Taobao Network Co.,Ltd / Alibaba cloud
 AS204957 # Green Floid LLC
+AS20448 # VPNtranet, LLC.
+AS209854 # Surfshark
+AS136787 # NordVPN (TEFINCOM S.A.)
+AS32751 # Octovpn / xbox VPN
