@@ -198,7 +198,6 @@ AS49505 # OOO Network of data-centers Selectel
 AS43289 # TRABIA trabia network, MD
 AS43317 # FISHNET-AS, RU
 AS43350 # NFORCE, NL
-AS44050 # PIN-AS, RU
 AS44066 # DE-FIRSTCOLO www.first-colo.net, DE
 AS45102 # CNNIC-ALIBABA-CN-NET-AP Alibaba (China) Technology Co., Ltd.
 AS45187 # RACKSPACE-AP Rackspace IT Hosting AS IT Hosting Provider Hon
@@ -810,3 +809,5 @@ AS20448 # VPNtranet, LLC.
 AS209854 # Surfshark
 AS136787 # NordVPN (TEFINCOM S.A.)
 AS32751 # Octovpn / xbox VPN
+AS201924 # Lertas NET s.r.o.
+AS34594 # Control Engineering d.o.o.
